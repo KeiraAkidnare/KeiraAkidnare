@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi, I’m Erandika. You can call me Keira if you prefer.</h1>
+<h1 align="center">Hi 👋, I'm Hi, I’m Erandika. You can also call me Keira if you prefer.</h1>
 <h3 align="center">Senior Software Engineer aspiring to transition into Technical Project Management</h3>
 
 - 🌱 I’m currently learning **advanced multi-agent systems for my MSC Level 10 research.**
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I run a blog named 'From Code to Cuddles' where I share personal insights and experiences.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:www.linkedin.com/in/erandika-baduge </h3>
 <p align="left">
 </p>
 
