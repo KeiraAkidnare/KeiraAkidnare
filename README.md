@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm Hi, I’m Erandika(Keira).</h1>
-<h3 align="center">Senior Software Engineer aspiring to transition into Technical Project Management</h3>
 
-- 🌱 I’m currently learning **advanced multi-agent systems for my MSC Level 10 research.**
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; color: #4A90E2;">Hi 👋, I'm Erandika (Keira)</h1>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: normal; color: #34495E;">Senior Software Engineer aspiring to transition into Technical Project Management</h3>
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6427441847326596286](https://www.blogger.com/blog/posts/6427441847326596286)
-
-- 💬 Ask me about **Python, Django, C#, and strategies to balance a tech career with best parenting & home schooling.**
-
-- 📫 How to reach me **kalanibaduge@gmail.com**
-
-- 😄 Pronouns: [She/Her](She/Her)
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #7F8C8D;">
+  - 🌱 I’m currently learning <strong>advanced multi-agent systems for my MSC Level 10 research.</strong>
+</p>
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #7F8C8D;">
+  - 📝 I regularly write articles on <a href="https://www.blogger.com/blog/posts/6427441847326596286" style="color: #4A90E2; text-decoration: none;"><strong>From Code to Cuddles</strong></a>
+</p>
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #7F8C8D;">
+  - 💬 Ask me about <strong>Python, Django, C#, and strategies to balance a tech career with best parenting & home schooling.</strong>
+</p>
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #7F8C8D;">
+  - 📫 Write to me: <strong>kalanibaduge@gmail.com</strong>
+</p>
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #7F8C8D;">
+  - 😄 Pronouns: <strong>She/Her</strong>
+</p>
 
 <p align="left">
 </p>
