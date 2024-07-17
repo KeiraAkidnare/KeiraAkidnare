@@ -1,6 +1,6 @@
 
 <div style="background-color: #f0f0f0; padding: 20px; text-align: center; border-radius: 10px;">
-    <h1 style="font-family: 'Arial', sans-serif; color: #333; font-size: 2.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">Greetings! It's Erandi, but call me Keira. 👋</h1>
+    <h1 style="font-family: 'Arial', sans-serif; color: #333; font-size: 2.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">Greetings! It's Erandi (Keira). 👋</h1>
 </div>
 
 <h3 align="center">Senior Software Engineer aspiring to transition into Technical Project Management</h3>
