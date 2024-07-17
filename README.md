@@ -5,13 +5,12 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6427441847326596286](https://www.blogger.com/blog/posts/6427441847326596286)
 
-- 💬 Ask me about **Python, Django, C#, and strategies to balance a tech career with best parenting & hoome schooling.**
+- 💬 Ask me about **Python, Django, C#, and strategies to balance a tech career with best parenting & home schooling.**
 
 - 📫 How to reach me **kalanibaduge@gmail.com**
 
 - 😄 Pronouns: [She/Her](She/Her)
 
-<h3 align="left">Connect with me:www.linkedin.com/in/erandika-baduge </h3>
 <p align="left">
 </p>
 
